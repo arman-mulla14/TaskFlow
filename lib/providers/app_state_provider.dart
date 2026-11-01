@@ -374,3 +374,4 @@ class AppStateProvider extends ChangeNotifier {
     await _loadAllData();
   }
 }
+

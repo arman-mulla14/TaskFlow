@@ -43,3 +43,4 @@ class AppColors {
   static const Color lightTextMuted = Color(0xFF64748B);
   static const Color lightTextSubtle = Color(0xFF94A3B8);
 }
+

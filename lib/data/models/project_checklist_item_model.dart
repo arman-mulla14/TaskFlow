@@ -51,3 +51,4 @@ class ProjectChecklistItem {
   @override
   int get hashCode => id.hashCode;
 }
+

@@ -67,3 +67,4 @@ class Note {
   @override
   int get hashCode => id.hashCode;
 }
+

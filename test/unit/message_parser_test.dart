@@ -180,3 +180,4 @@ Important announcement regarding exam dates!
     });
   });
 }
+

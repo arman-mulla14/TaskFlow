@@ -25,3 +25,4 @@ class NotificationService {
     await prefs.setInt(_prefMinute, time.minute);
   }
 }
+

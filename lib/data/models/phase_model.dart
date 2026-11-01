@@ -65,3 +65,4 @@ class Phase {
   @override
   int get hashCode => id.hashCode;
 }
+

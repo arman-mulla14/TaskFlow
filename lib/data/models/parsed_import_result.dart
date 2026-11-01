@@ -85,3 +85,4 @@ class ParsedImportResult {
       phases.fold(0, (acc, p) => acc + p.tasks.where((t) => t.isSelected).length);
   int get totalProjects => phases.fold(0, (acc, p) => acc + p.projects.length);
 }
+

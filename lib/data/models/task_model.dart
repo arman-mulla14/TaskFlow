@@ -155,3 +155,4 @@ class Task {
   @override
   int get hashCode => id.hashCode;
 }
+
